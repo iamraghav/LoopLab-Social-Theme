@@ -1,0 +1,19 @@
+{
+  "name": "looplab-social-theme",
+  "version": "1.0.0",
+  "description": "A theme created using BStrap 4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/iamraghav/LoopLab-Social-Theme.git"
+  },
+  "author": "iamraghav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamraghav/LoopLab-Social-Theme/issues"
+  },
+  "homepage": "https://github.com/iamraghav/LoopLab-Social-Theme#readme"
+}
